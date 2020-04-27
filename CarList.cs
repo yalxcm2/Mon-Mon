@@ -37,6 +37,7 @@ namespace SellingProduct
             //dgvGoingList.CurrentCell.RowIndex,
             //dgvGoingList.CurrentCell.ColumnIndex);
             //MessageBox.Show(msg, "Current Cell");
+            MessageBox.Show("Current Cell");
 
             //create return voucher
             int id = -1, returnID = -1;
